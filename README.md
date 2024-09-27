@@ -9,11 +9,17 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 step 1: start the program
+
 step 2: Import libraries
+
 step 3: Read the given CSV file
+
 step 4: Import KMeans and use for loop to cluster the data.
+
 step 5: Predict the cluster and plot data graphs.
+
 step 6: Print the outputs and end the program
+
 step 7: end the program
 ## Program:
 ```
